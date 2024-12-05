@@ -1,4 +1,4 @@
-# Diachronic Word Similarity Matrices for Semantic Shift
+# Analyzing Continuous Semantic Shifts with Diachronic Word Similarity Matrices
 This is the repository for our paper "Analyzing Continuous Semantic Shifts with Diachronic Word Similarity Matrices."
 
 ## Abstract
